@@ -1,5 +1,6 @@
 #Here is a new update by lama
 #adding new variable
+#Also before we should define some docker
 var1 = 13 #actually should be 13
 # Shipping Cost Calculator
 

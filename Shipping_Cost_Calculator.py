@@ -1,4 +1,6 @@
 #Here is a new update by lama
+#adding new variable
+var1 = 12
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

@@ -1,4 +1,4 @@
-#created in 2026 actually
+#Here is a new update by lama
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
